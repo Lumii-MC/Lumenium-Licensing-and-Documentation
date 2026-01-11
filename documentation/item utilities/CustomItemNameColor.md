@@ -33,7 +33,7 @@ public class TestItem extends Item implements CustomItemNameColor {
     }
 ```
 
-this Override sets the item's name color to the returned value (FF004F, Folly)
+This Override sets the item's name color to the returned value (FF004F, Folly)
 
 ```
 @Override
@@ -42,6 +42,6 @@ this Override sets the item's name color to the returned value (FF004F, Folly)
     }
 ```
 
-this Override gets the returned value from the previous Override and changes the default color of the item's translation key to the set color.
+This Override gets the returned value from the previous Override and changes the default color of the item's translation key to the set color.
 
 These two Overrides work together to set a custom item name color. Remember to keep the hex code ***AFTER*** the `0x` in the first Override, or else it won't work!
