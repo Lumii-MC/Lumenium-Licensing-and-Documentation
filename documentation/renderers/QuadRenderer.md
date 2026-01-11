@@ -1,4 +1,4 @@
-**Creates a textured sphere on either client or common(server) side.**
+**Creates a textured quad on either client or common(server) side.**
 
 How to implement:
 
