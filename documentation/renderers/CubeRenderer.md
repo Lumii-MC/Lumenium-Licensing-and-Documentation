@@ -1,5 +1,7 @@
 **Creates a textured cube on either client or common(server) side.**
 
+Credit to Homak for providing the renderer.
+
 How to implement:
 
 ```import com.lumii.lumenium.utils.render.CubeRenderer;```
