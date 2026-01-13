@@ -26,7 +26,7 @@ BeamRenderer.scheduleClient(
 
 *how it works:*
 
-`new Vec3d(user.getX(), user.getY()-5, user.getZ()),` <--- where the sphere spawns.
+`new Vec3d(user.getX(), user.getY()-5, user.getZ()),` <--- where the beam spawns.
 
 `1f,` <--- radius X
 
