@@ -1,5 +1,7 @@
 **Creates a textured beam on either client or common(server) side.**
 
+Credit to Homak for providing Cube & Quad renderers. This renderer is based off those.
+
 How to implement:
 
 ```import com.lumii.lumenium.utils.render.BeamRenderer;```
