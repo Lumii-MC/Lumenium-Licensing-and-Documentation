@@ -1,3 +1,5 @@
+<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"> <img alt="fabric-api" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_64h.png">
+
 ## Overview
 
 **A simple location for licensing and documentation of Lumenium, a simple library that adds simple utilities for items, effects, rendering, and other things.**
