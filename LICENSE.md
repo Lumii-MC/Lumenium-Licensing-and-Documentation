@@ -4,7 +4,7 @@
 - Any project using Lumenium must give clear public credit to Lumii on its distribution page, README, or in-game credits.
 
 ## 2. No Reverse Engineering: 
-- You may not decompile, modify, disassemble, or attempt to access non-public code or internal logic of Lumenium, nor assist others in doing so.
+- You may not decompile, modify, disassemble, or attempt to access non-public code or internal logic of Lumenium through tools such as: WinRAR, WinZip, or any other tool that allows decompiling of .jar files, nor may you assist others in doing so.
 
 ## 3. No Recreation of Author's Work:
 - You may not recreate, copy, replicate, or derive new projects intended to imitate or replace mods, systems, assets, or services provided and created by me (Lumii).
