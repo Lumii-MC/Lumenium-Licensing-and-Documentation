@@ -11,7 +11,8 @@ How to implement:
 ScreenFlashUtil.flash(
                 255, 255, 255,
                 1,
-                10
+                10,
+                Easings.LINEAR
         );
 ```
 
@@ -23,13 +24,16 @@ ScreenFlashUtil.flash(
 
 `10` <--- Duration in ticks (How long the flash lasts.)
 
+`Easings.LINEAR` <--- Easing type. If none wanted, use linear.
+
 **Held flash:**
 ```
 ScreenFlashUtil.heldFlash(
                 255, 255, 255,
                 1,
                 10,
-                100
+                100,
+                Easings.LINEAR
         );
 ```
 
@@ -42,3 +46,5 @@ ScreenFlashUtil.heldFlash(
 `10,` <--- Hold duration in ticks (How long the flash is held before fading, float)
 
 `100` <--- Fade duration in ticks (How long the flash takes to fade out completely, float)
+
+`Easings.LINEAR` <--- Easing type. If none wanted, use linear.
